@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of the Lord Baron Ginckle, lieutenant general, and commander in chief of their majesties forces in Ireland : with a panegyrick on his lordship's conduct (this last campaign) in reducing Ballymore, Athlone, Galway, and Lymerick; and his defeating the Irish army at Aghrim, &amp;c. De ware verbeetenis van sijn excellentie den Baron van Ginkel, luytenant-generael en commandant en chef van hare Majesteyten armées in Yrland. Met een lof-reden van sijn excellenties conduite (in de laeste campagne) in het reduceeren van Balymore, Athlone, Galoway, en Limerick. Mitsgaders het verslaen van het Yrsche leger by Agrim.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01991</idno>
+            <idno type="STC">Wing C2025B</idno>
+            <idno type="STC">ESTC R173668</idno>
+            <idno type="EEBO-CITATION">53981477</idno>
+            <idno type="OCLC">ocm 53981477</idno>
+            <idno type="VID">180149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180149)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of the Lord Baron Ginckle, lieutenant general, and commander in chief of their majesties forces in Ireland : with a panegyrick on his lordship's conduct (this last campaign) in reducing Ballymore, Athlone, Galway, and Lymerick; and his defeating the Irish army at Aghrim, &amp;c. De ware verbeetenis van sijn excellentie den Baron van Ginkel, luytenant-generael en commandant en chef van hare Majesteyten armées in Yrland. Met een lof-reden van sijn excellenties conduite (in de laeste campagne) in het reduceeren van Balymore, Athlone, Galoway, en Limerick. Mitsgaders het verslaen van het Yrsche leger by Agrim.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Jan Aelberts, boeckverkooper in de Hofstraet,</publisher>
+                  <pubPlace>Gedruckt naer de copy van Londen, in 's Gravenhage :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Pages 3-10 in Dutch; 11-16 in English.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="dut">dut</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reede-Ginckel, Godard, --  Baron van, 1644-1703.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180149:1" rendition="simple:additions"/>
+            <p>THE CHARACTER OF THE Lord Baron Ginckle, Lieutenant General, and Commander in Chief of their Majeſties Forces in Ireland: With a <hi>Panegyrick</hi> on his Lordship's Conduct (this laſt Campaign) in Reducing <hi>Ballymore, Athlone, Gal<g ref="char:EOLhyphen"/>way,</hi> and <hi>Lymerick;</hi> And his Defeating the <hi>Irish</hi> Army at <hi>Aghrim,</hi> &amp;c.</p>
+            <p>DE WARE VERBEELTENIS Van ſijn EXCELLENTIE Den BARON van GINCKEL, Luytenant-Generael en Commandant en Chef van hare Majeſteyten Armées in Yrland.</p>
+            <p>Met een Lof-reden van ſijn Excellenties Conduite (in de laeſte Campagne) in het reduceeren van <hi>Balymore, Athlone, Galoway,</hi> en <hi>Limerick.</hi> Mitsgaders het verſlaen van het Yrſche Leger by <hi>Agrim.</hi>
+            </p>
+            <p>Gedruckt naer de Copy van Londen, in's Gravenhage by <hi>Jan Aelberts,</hi> Boeckverkooper in de Hofſtraet, 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="dut" type="text">
+            <pb facs="tcp:180149:2"/>
+            <pb n="3" facs="tcp:180149:2"/>
+            <head>De ware VERBEELTENIS Van ſijn EXCELLENTIE Den BARON van GINCKEL, Luytenant-Generael en Commandant en Chef van hare Majeſteyten Armées in Yrland. Met een Lof-reden van ſijn Excellenties Conduites (in de laeſte Campagne) in het reduceren van <hi>Baly<g ref="char:EOLhyphen"/>more, Athlone, Galoway,</hi> en <hi>Limmerick.</hi> Mits<g ref="char:EOLhyphen"/>gaders het verſlaen van het Yrſche Leger by <hi>Agrim.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>E Lof van deſe grootc Perſonage te ver<g ref="char:EOLhyphen"/>breyden is een materie en ſubject ver<g ref="char:EOLhyphen"/>eyschende de krachtigſte termen van welſpreeckentheyt, en de voornaemſte pennen, om deſelve eeniger maeten uyt te kunnen drucken: den Orateur heeft hier de avantage dat, het geene hy van deſen Heer te ſeggen heeft, alle byvoegſelen van het artificieel, en alle geringe aſſiſtentien van flattery te boven gaet.</p>
+            <p>De ware repreſentatie van deſe Illuſtre Perſonage is
+<pb n="4" facs="tcp:180149:3"/>
+een Lof-reden ſelfs, en dit kan van hem alleen geſeyt werden, dat grootheyt en goetheyt, (ſoo ſelden in andere te ſamen gevoegt) in hem nochtans inſeparabel verknocht ſijn, dat hy uytmuntende is, de Werelt ſoo wel door ſijn aengebooren goedaerdigheyt als fameuſe exploiten, dat hy niet alleen een Groot Man, maer het ſelve by uytnementheyt is.</p>
+            <p>De reëele grootheyt van menſchen werd voornament<g ref="char:EOLhyphen"/>lijck gereeckent, af te komen van haer Aloude Adelijc<g ref="char:EOLhyphen"/>ke geboorte, de Luyſter van haere employen, en<g ref="char:EOLhyphen"/>de renommé van haere daeden, het eerſte maeckt haer bequaem tot de grootſte bedieningen, het andere geeft te kennen haer waerdigheyt en capaciteyt, en het laeſ<g ref="char:EOLhyphen"/>te diſtinguëert haer van alle andere menſchen. Sijn Excellentie heeft de advantagie van het eerſte door een lange ongebroocken reex van voortreffelijcke Voorou<g ref="char:EOLhyphen"/>ders in Nederland, dat Land heeft hem aen de Werelt gegeven als een cieraet aen een geſlagt, alvoorens ge<g ref="char:EOLhyphen"/>ëert met grote bedieningen, hy heeft ſijn geſlagt de Werelt nog aengenaemer gemaeckt, hebbende ſijn Fa<g ref="char:EOLhyphen"/>milie boven ſijne Voorouders toegebragt ſeer grote luyſter en eer, maer hoe onnut is de geluckigſte natuyr, wanneer ſy niet ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>econdeert wert door een Genereuſe opvoedinge, en wat heeft het te beduyden afkomſtig te ſijn van Heroicke Voorouders, indien wy niet be<g ref="char:EOLhyphen"/>quaem gemaekt werden in haere voetſtappen te treden? De opvoedinge maeckt ons ſeeckerlijck het geene wy ſijn Excellentie in opgevoedt by fulcke Meeſters, dewelcke forg gedraegen hebben van hem ſoo wel een volmaeckt Chriſten als een volmaeckt Edelman te maecken, twee Qualiteyten, ſoo verre daer van daen,
+<pb n="5" facs="tcp:180149:3"/>
+dat ſy met den anderen niet ſoude kunnen beſtaen; dat ter contrarie dat den een den anderen oneyndig<g ref="char:EOLhyphen"/>lijck te hulpe komt, den dienſt van God ons bequaem maeckende tot den dienſt van den Prince, ſijn natu<g ref="char:EOLhyphen"/>rel hem leydende tot den Oorlog, heeft ſig derhal<g ref="char:EOLhyphen"/>ven van ſijn Jonckheyt af alle ſijne jaeren t'eenemael over gegeven aen de ſtudie van de militaire diſcipli<g ref="char:EOLhyphen"/>ne, de natuyr heeft hem bequaem gemaeckt tot dat geene, het welcke niet alleen Duytſland en Holland, maer oock Engeland ſedert die tijd in hem geadmireert heeft, dat is te ſeggen tot een voortreffelijck Com<g ref="char:EOLhyphen"/>mandant.</p>
+            <p>En waerlijck dit is de vertooning van deſe groote perſonage ſijn leeven, dit is het Theater, waer op ſij<g ref="char:EOLhyphen"/>ne daeden de Werelt met verbaeſtheyt vervullen, hy heeft een ſterck en geſont Lichaem, bequaem tot de grootſte Fatiguen, hy is van ſijn Naturel Actif, een groot liefhebber van excercitien, tot verwonderens toe, matig in ſpijs en dranck, hy vreeſt geen perijckelen, en ſal daer oock niet rockeloos in loopen hy is altoos in een en het ſelfde humeur, altoos geluckig, altoos het quaetſte voorkomende, en de grootſte moejelijckheden te boven komende, hy heeft noyt ſig ondervonden te commandeeren, voor aleer hy wiſt volkomen te ge<g ref="char:EOLhyphen"/>hoorſaemen, ſijn beginſel was van de laegſte employen in de Armée, en hy is ſijn advancement niet ſchuldig aen de avantage van ſijn geboorte, nochte aen het ge<g ref="char:EOLhyphen"/>ſag van ſijne Vrienden maer aen ſijne eygen perſoneele verdienſten, ſijn ſelven ſoo diſtingueerende, dat de Prins van Orange ende de Staeten altoos het oog op hem hebben geveſt.</p>
+            <p>
+               <pb n="6" facs="tcp:180149:4"/>Maer om geen relaes te doen van alle het geene hy in ſijne verſcheyde poſten, in den Staten Armée, on<g ref="char:EOLhyphen"/>der het Commando van ſijne tegenwoordige Majeſteyt (te dier tijdt Prince van Orange) verrigt heeft, het geen de weg ſoude banen van dit vel tot een geheel volumen te doen opſwelle, ſoo ſullen wy maer alleen in het korte aenroeren eenige weynige ſijner daden onlangs in Yrland voorgevallen.</p>
+            <p>Schoon genomen de Revolutie in Engeland geluckig, vreedſaem, en ſtille toeging, niet te min heeft Yrland de gedaente van affairen verandert, en is geworden de ſetel van Oorlog, dewelcke wy ſoo geluckig gemijdt hebben. Koning Jacobus heeft aldaer niet alleen een Plaets van retraite, maer daer en boven een talrijcke Ar<g ref="char:EOLhyphen"/>mée gevonden. Hy heeft dat Koninckrijck met een on<g ref="char:EOLhyphen"/>gelooffelijcke geſwintheyt overgelopen, ontmoetende met weynig ofte geen reſiſtentie, als alleen by die van Londonderry, een Plaets alwaer de couragie van de In<g ref="char:EOLhyphen"/>woonders het gebreck van de Mueren, Fortificatien, Armoede, en alle andere ſaecken nodich tot het uyt<g ref="char:EOLhyphen"/>houden van een lange Belegering, geſuppleert heeft.</p>
+            <p>Den Hertog van Schomberg heeft een korten tijdt daer na het grootſte gedeelte van het Noorden van Yr<g ref="char:EOLhyphen"/>land voor ſijn Koning en Souveraine verſeeckert. Sijne Majeſteyt de volgende Campagne in perſoon overgaen<g ref="char:EOLhyphen"/>de, heeft niet lange daer na een veel grooter gedeelte van dat Koninckrijck door die altoos gerenomeerde, geluckige, en noyt te vergetene Batailje aen de Rivier de Boyne gereduceert; maer de tijdt tot verdere actie verloopende, en de Belegeringe van Limmerick opge<g ref="char:EOLhyphen"/>broocken ſijnde, voornamentlijck veroorſaeckt door de
+<pb n="7" facs="tcp:180149:4"/>
+exceſſive quantiteyt van regen verſcheyde dagen na den anderen onophoudelijck vallende, is ſijn Majeſteyt met ſijn Konincklijcke Hoogheyt de Prince van Denemarcke, Grave van Solms, een weynig daer aen na Engeland overgegaen.</p>
+            <p>Sijn Majeſteyt wel bekent ſijnde datter noch ſeer veel wercks in Yrland te doen viel, voor en aleer het vol<g ref="char:EOLhyphen"/>komen gereduceert konde werde, oordeelde derhalven, dat die enterpriſe niet licht was, ofte wel ſoude ſuc<g ref="char:EOLhyphen"/>cederen ſonder een Generael van reputatie en beleydt. De Heer van Ginckel, een van de meeſt gerenomeerde Capiteyns van deſe Eeuw, was des Konings verkieſin<g ref="char:EOLhyphen"/>ge, en dit dunckt my de hoogſte lof te ſijn die hem gegeven kan worden, en het beſte gedeelte van de ſchil<g ref="char:EOLhyphen"/>derye te ſijn, die wy nu onderhanden hebben. Dat Orateurs, Poëten, en Courantiers het de geheele We<g ref="char:EOLhyphen"/>relt ſoude doen doorklincke, ſoude ſeeckerlijck remar<g ref="char:EOLhyphen"/>kabel ſijn; maer dat Koning William, die een groote kender der perſoonen is, en die ten regarde van wijs<g ref="char:EOLhyphen"/>heyt, en kloeckmoedigheyt, conduite en courage, de verwondering van alle volcken is, hem deſe onderne<g ref="char:EOLhyphen"/>minge ſoude toevertrouwen, maeckt ſijn Excellentie bekent als alle het geene van hem geſeyt ſoude konnen werden.</p>
+            <p>Geen mentie te maecken van Ballymore, een conſi<g ref="char:EOLhyphen"/>derable poſte gedefendeert door een talrijcke Garniſoen, het welcke ſijn Excellentie door ſijn beleyt conſtrin<g ref="char:EOLhyphen"/>geerde ſig op difcretie over te leveren. Wat iſſer glo<g ref="char:EOLhyphen"/>rieuſer en meer voorſpoedig als het Stormen op Atlone, na dat onſe Manſchap de Rivier doorwendende tot den hals toe overmarcheerden? En wat is meer verwonde<g ref="char:EOLhyphen"/>rings
+<pb n="8" facs="tcp:180149:5"/>
+waerdig, dat ſy dat alles deden in het geſicht van des Vyandts Campement, ſelfs wiens Armée veel talrijcker was, dan die van ſijn Excellentie; de Viandt nochtans niet durfde ondernemen deſe haer ſeer impor<g ref="char:EOLhyphen"/>tante pas te ſeconderen; maer liepen weg, achterlaten<g ref="char:EOLhyphen"/>de van de hare op de plaets ontrent elf-hondert dooden, ende omtrent 350. gevangens.</p>
+            <p>Wat wijs en geluckig, wat grooter beleydt, vlijdt en bravoure konde van eenig Generael getoont werden, dan als ſijn Excellentie betoonde in de Batailje van A<g ref="char:EOLhyphen"/>grim. De Yrſche Armée campeerde omtrent drie mij<g ref="char:EOLhyphen"/>len aen geene ſijde de kleyne Stadt Ballymote; de regter vleugel van haer Campement breyde ſich uyt van de Kerck van Killecoumodon tot aen de plaets genaemt Hurinapry aen de lincker, ontrent twee mijlen in de lengte.</p>
+            <p>Aen de lincker vleugel liep een kleyn Riviertje, hebbende ſtîjle bergen, en kleyne Moraſſen aen beyde de ſijde; naeſt daer aen was een groote roode Moras ſijn<g ref="char:EOLhyphen"/>de by na een mijl in de lengte, en op het eynde van dien ſtont het Kaſteel Agrim, commanderende de weg na haer Campement, het welcke van de Ruyterye niet door waer konde werde, als alleen ontrent het Caſteel, om dat een Rivier loopende door een vogtige grondt tot in het geheel een Moras maeckte, het welcke ſich uytbreyde tot aen des Viandts rechter vleugel, alwaer oock een andere pas was genaemt Vrachree, hebbende een ryſende grondt aen beyde de kanten. Het voornaem<g ref="char:EOLhyphen"/>ſte van haer Campement was op de ſijde van een Bergh, en de grachten wel voorſien met ſchiet-geweer tot het uy<g ref="char:EOLhyphen"/>terſte eynde, verſcheyde defilees ſo naeuw, dat twee man
+<pb n="9" facs="tcp:180149:5"/>
+naeſt malkanderen qualijck konde approcheeren, hare retranchementen waren ſulcks, dat men ſoude geoordeelt hebben het onmogelijck te ſijn de ſelve te attacqueren. Voegt hier by, dat haer Armée numereuſer was dan het onſe; maer daer ſchijnt geen ſwarigheyt te ſijn, het wel<g ref="char:EOLhyphen"/>ke het beleyt en de reſolutie van den groten Ginckel, (ge<g ref="char:EOLhyphen"/>aſſiſteert met de couragie en de braveur van ſijn volck) niet bequaem is te boven te komen: want de attacken wa<g ref="char:EOLhyphen"/>ren ſoo wel geordineert, dat onſe Manſchap, onder de conduite van den Generael, haer met ſulck een onver<g ref="char:EOLhyphen"/>ſaegden couragie, en reſolutie gequeten hebben, dat ſy in weynig uyren der Vyanden Campement niet alleen ge<g ref="char:EOLhyphen"/>forceert hebben, maer daer en boven haer principaelſte lichaem t'eenemael geſlagen, doodende omtrent 7000, en nemende gevangen ontrent 450. ſijnde aen onſe kant ontrent 500. dooden.</p>
+            <p>Omme geen gewag te maecken van het innemen van het Fort Galloway, de tijdige voorkominge van Bolda<g ref="char:EOLhyphen"/>rick Odonnels voorgenome ſecours, met het dwingen van die Stadt tot een ſpoedige overgaef, dienende tot verhaeſting van de Armées ſpoedige marſch om de impre<g ref="char:EOLhyphen"/>nabele Fortreſſe van Limmerick te belegeren; het force<g ref="char:EOLhyphen"/>ren van de geſeyde plaets tot de overgaef, kroont niet al<g ref="char:EOLhyphen"/>leen den arbeyt van deſe glorieuſe, voorſpoedige, en al<g ref="char:EOLhyphen"/>tijds geluckige Campagne, maer heeft met eenen den Oorlog in dat Koninkrijck t'eenemael ten eynde gebragt, dat volck hier door volkomentlijck onder de gehoorſaem<g ref="char:EOLhyphen"/>heyt van haren Majeſteyten geſag gebracht ſijnde.</p>
+            <p>Sijne Excellenties onvermoedelijcke naerſtigheyt ge<g ref="char:EOLhyphen"/>voegt by ſijne extraordinary conduite, en militaire ſtra<g ref="char:EOLhyphen"/>tagemes, in de verſcheydene voorvallen geduyrende de
+<pb n="10" facs="tcp:180149:6"/>
+belegeringe van Limmerick (te veel om hier te particula<g ref="char:EOLhyphen"/>riſeren) moet geheel Europa verſtelt doen ſtaen. Sijne groote ervarentheyt in Militaire affairen was oorſaeck, dat de Soldaten onder ſijn Commande couragieux en ge<g ref="char:EOLhyphen"/>ruſt waren in alle hare attacken. Geen attacke ſcheen hardt, als het maer geſchiede door ſijne ordre. Hy is beyde de liefde en terreur van de jaren: want geen Generael was oyt meer afke<g ref="char:EOLhyphen"/>rig van violentie; ſelfs ten reguarde van de geene die hy ver<g ref="char:EOLhyphen"/>meeſtert hadde. Hy heeft den Oorlog niet gevoert als ſommige Generaels over Zee gedaen hebben, alwaer het branden van Steden, geheele Landſchappe in de aſſche te leggen, geene ouderdom, ofte ſexe te ſparen, gereeckent wert een groote lof voor de poſteriteyt te ſijn.</p>
+            <p>Alle 't geene hier geſeyt is, is maer een gedeelte van die groote Perſonage ſijn afbeeltſel. Hy is te admireren in ſijne private en publijcke bequaemheden; ende daer is alſoo groo<g ref="char:EOLhyphen"/>ten Catalogue van ſijn deugden als exploicten.</p>
+            <p>Groot en goet te ſijn is extraordinair, en beſwaerlijck in een perſoon te vinden: te leven in het gedruys van violentie en Oorlog, en des niet tegenſtaende te bewaren een Godts<g ref="char:EOLhyphen"/>dienſtige humeur, en een tedere conſcientie gevoelig van 't minſte quaedt, is ſeer raer te vinden. Het werck te maecken ons ſelven ſoo wel als onſe vyanden t'onder te brengen, is een deugt ten top geſtegen. Alle deſe ſijn in onſen Generael in den hoogſten graedt: Hy is ſpreeckſaem, opregt en obli<g ref="char:EOLhyphen"/>gant: Het valt hem ſwaerder een gunſt te weygeren, als het een ander doedt geweygert te werden: Hy geeft niemant tijdt ietwes te verſoecken, wanneer hy bevint datter rëele verdienſten ſijn; en het geene hy niet kan toeſtaen dat wey<g ref="char:EOLhyphen"/>gert hy met een ſeer groote beleeftheyt. In het korte, hy ſal by de poſteriteyt leeven, door het groote gedeelte dat hy voor ſig ſelven in de Hiſtorie van deſe Eeuwe opgeleydt heeft; en deſe ſijne naem kan niet vergeten werden, ſoo lang als men genegentheyt, en gelegentheyt heeft groote, en ver<g ref="char:EOLhyphen"/>tueuſe actien te admireren.</p>
+            <trailer>EYNDE.</trailer>
+         </div>
+         <div xml:lang="eng" type="text">
+            <pb n="11" facs="tcp:180149:6"/>
+            <head>THE CHARACTER OF THE Lord Baron Ginckle, Lieutenant General, and Commander in Chief of their Majeſties Forces in Ireland: With a <hi>Panegyrick,</hi> on his Lordship's Conduct (this laſt Campaign) in Reducing <hi>Ballymore, Athlone, Gal<g ref="char:EOLhyphen"/>way,</hi> and <hi>Lymerick;</hi> And his Defeating the <hi>Irish</hi> Army at <hi>Aghrim,</hi> &amp;c.</head>
+            <p>THE Praiſes of this Great Man is a Theam on which may be ſpent all the Beauties of Eloquence, and a Subject worthy the beſt Pens; in which the Orator has this Ad<g ref="char:EOLhyphen"/>vantage, that what he has to ſay is above the Improvement of Art, and the mean Aſſiſtance of Plattery.</p>
+            <p>The true Repreſentation of this Noble Perſon is of it ſelf a Panegyrick; and only this is to be ſaid of him, <hi>That Greatneſs and Goodneſs, ſo ſeldom united tagether in others, are in him inſepa<g ref="char:EOLhyphen"/>rably link'd: That he is Conſpicuous to the World by good Actions, as well as famous Exploits: That he is not only a Great, but alſo en Ex<g ref="char:EOLhyphen"/>cellent Man.</hi>
+            </p>
+            <p>The real Greatneſs of Men is chiefly derived from the Nobi<g ref="char:EOLhyphen"/>lity
+<pb n="12" facs="tcp:180149:7"/>
+of their Bierth, the Splendour of their Employments, and the Reputation of their Performances: The one is a kind of Capacity for the greateſt Truſts; the other, an Argument of their Worth and Abilities; and the laſt, a ſplendid Diſtinction from the Herd of Mortals, who act within a narrow Sphere, and are forgotten in the Croud.</p>
+            <p>The <hi>Baron</hi> has the Advantage of the Firſt, by a long and uninterrupted Deſcent of Honourable Anceſtors in the <hi>Lower Germany.</hi> That Country gave him to the World, as a new Or<g ref="char:EOLhyphen"/>nament to a Family already honoured with great Offices: He has brought their Inclinations into the World, and made ſince a vaſt Addition to their Stock of Fame and Honour.</p>
+            <p>But how unprofitable is the happieſt Nature, if it be not ſe<g ref="char:EOLhyphen"/>conded by a genorous Education? And what does it ſignifie to be deſcended from Heroick Anceſtors, if we are not made ca<g ref="char:EOLhyphen"/>pable of Treading in their Steps? Education makes us truly what we are.</p>
+            <p>The <hi>Baron</hi> was brought up by thoſe Maſters who took Care to perfect in him the Criſtian, and the Gentleman; tho Qua<g ref="char:EOLhyphen"/>lities ſo far from being inconſiſtent, that the one infinitely helps the other; the Service of God fitting us for that of the Prince. His <hi>Genius</hi> leading him to Martial Affairs, he has, for a long Series of Years, given himſelf wholly to the Study of Military Diſcipline. Nature has fitted him for what, not only <hi>Germany</hi> and <hi>Holland,</hi> but <hi>England</hi> has ſince admired him; that is, for an Eycellent Commander.</p>
+            <p>And really, this is the Scene of this Great Man's Life: It is the Theatre where his Actions repleniſhed the World with Aſ<g ref="char:EOLhyphen"/>toniſhment. He has a ſtrong and haalthful Body, capable of the greateſt Hareſhips. He is naturally Active, a great Lover of Exerciſe, Temperate to Admiration. He neither courts nor ſears Danger; ever Himſelf ever Fortunate, ever Preven<g ref="char:EOLhyphen"/>ting the Worſt, and Surmounting the greateſt Difficulties.</p>
+            <p>He did not preſume to Command, before he knew perfectly how to obey. He began by the ſmalleſt Charge of the Army, and owed his Advancement neither to the Advantage of his
+<pb n="13" facs="tcp:180149:7"/>
+Quality, nor to the Credit of his Friends, but to his own Per<g ref="char:EOLhyphen"/>ſonal Merit; diſtinguiſhing himſelf ſo, as to fix the Eyes of the Prince of <hi>Orange,</hi> and the States upon him.</p>
+            <p>But omitting the Account of what he did in the ſeveral Poſts he was in, in the States Army, under the Command of His Preſent Majeſty, when Prince of <hi>Orange,</hi> which would be the way to ſwell this Sheet into a Volume, we shall confine our ſelves to ſome brief Hints of his late Actions in <hi>Ireland.</hi>
+            </p>
+            <p>Though <hi>England</hi> ſuffer'd a Happy, Peaceable and Quiet <hi>Revolution,</hi> yet <hi>Ireland</hi> alter'd the Face of Affairs, and proved the Seat of that War which we had ſo happily avoided. There King <hi>James</hi> found not only a Retreat, but alſo a numerous Army. He over-run that Kingdom with an incredible Cele<g ref="char:EOLhyphen"/>rity, and found little Reſiſtance but in <hi>London-Derry,</hi> a Place where the Courage of the Inhabitants ſupplied the Want of Walls, Guns, and all other things neceſſary for the Mainte<g ref="char:EOLhyphen"/>nance of a long Siege.</p>
+            <p>The Late Duke of <hi>Schonberg</hi> ſoon after ſecured to his Royal Maſter the greater part of the <hi>North</hi> of <hi>Ireland:</hi> And the next Campaign, His Majeſty going over in Perſon, by the ever-famous, happy, and never to be forgotten Fight at the <hi>Boyne,</hi> ſoon after reduced a far greater part of that Kingdom: But the Seaſon for Action growing over, and the Siege of <hi>Lymerick</hi> being Raiſed, occaſioned chiefly by the exceſſive Quantities of Rain that fell for many Days inceſſantly, his Mxjeſty, with his Royal Highneſs, and ſoon after the Count <hi>de Solmes,</hi> re<g ref="char:EOLhyphen"/>turned for <hi>England.</hi>
+            </p>
+            <p>His Majeſty welle knowing there was a great deal of Work ſtill to be done in <hi>Ireland,</hi> before it could be entirely reduced, therefore did not think the Enterprize eaſie, or likely to ſuc<g ref="char:EOLhyphen"/>ceed, without a General of Reputation and Conduct. <hi>Gin<g ref="char:EOLhyphen"/>kle,</hi> one of the famouſeſt Captains of this Age, was the King's Choice; and this I take to be the higheſt Commendation can be given him, and the fineſt part of that Picture which is now drawing: That <hi>Orators, Poets</hi> and <hi>Gazetteers</hi> should raiſe it all the Worls over, would indeed be conſiderable: But that
+<pb n="14" facs="tcp:180149:8"/>
+King <hi>William,</hi> who has ſo great an Inſight in Men, who is himſelf, for Wiſdom and Valour, for Conduct and Courage, the Admiration of all People, should truſt him with the Un<g ref="char:EOLhyphen"/>dertaking, ſpeaks the whole <hi>Character</hi> of the <hi>Baron,</hi> better than any thing that can be ſaid of him.</p>
+            <p>Not to mention <hi>Ballymore,</hi> a conſiderable Poſt, defended by a numerous Garriſon, whom the <hi>Baron</hi> forc'd Conduct, to ſurrender themſelves at diſcretion. What more Glorious and Succeſsful than the Storming of <hi>ATHLONE,</hi> after our Men, by Fording the River, had marched up to their Crevats in Water? And what is more aſtonishing, in the very ſight of the Enemy's Camp, whoſe Army was more numerous than the <hi>Baron</hi>'s; yet durſt not attempt the Succour of their moſt importan Pals, but run away, leaving behind them near Ele<g ref="char:EOLhyphen"/>ven hundred of their Number dead on the Spot, and about 350, that were taken Priſoners.</p>
+            <p>What more Wiſe and Fortunate, or what greater Con<g ref="char:EOLhyphen"/>duct, Diligence, and Bravery could be shewn by a General, than that of the <hi>Baron</hi>'s at the Battel of <hi>Aghrim?</hi> The <hi>Irish</hi> Army lay about Three Miles beyond the little Town of <hi>Bally<g ref="char:EOLhyphen"/>naefloe,</hi> their Camp extending it ſelf from the Church of <hi>Kill<g ref="char:EOLhyphen"/>commodon,</hi> on the Right, to a Place called <hi>Gurtnapary,</hi> on the Left, about Two Miles in Length.</p>
+            <p>On their Left ran a ſmall Brook, having ſteep Hills and little Bogs on each ſide; next to which, was a large red Bog, almoſt a Mile over, at the end of which, ſtood the Caſtle of <hi>Aghrim,</hi> commanding the Way to their Camp; which was paſſable no way for Horſe, but juſt at the Caſtle, by reaſon of a River, which running through a moiſt Ground, made the whole a Moraſs, or Bog, which extended it ſelf along to the Enemies Right, where was alſo another Paſs, called <hi>Vrachree,</hi> having a riſing Ground on each ſide of it. Their main Camp was on the ſide of a Hill, very well Dit<g ref="char:EOLhyphen"/>ched, and the Ditches as well lined with Shot to the very ed<g ref="char:EOLhyphen"/>ge of the bog, ſeveral Defiles being ſo narrow, that not abo<g ref="char:EOLhyphen"/>ve Two Men could enter a-breaſt; their Intrenchments being
+<pb n="15" facs="tcp:180149:8"/>
+ſuch, that to ones thinking, made them almoſt impoſſible to be attack'd: Add to this, their Army's being more nume<g ref="char:EOLhyphen"/>rous than ours: but there ſeems to be no difficulty, but what the Conduct and Reſolution of the Great <hi>Ginckle,</hi> aſſiſted by the Courage and Bravery of his Men, is able to overcome; for the Attacks were ſo well ordered, that our Men, under the Conduct of the General, behaved themſelves with ſuch un<g ref="char:EOLhyphen"/>daunted Courage and Reſolution, that in a few hours time, they not only forc'd the Enemy's Camp, but gave their main Body a Total Defeat, killing about 7000, and taking above 450 Priſonners, with the loſs of about 500: on our Side.</p>
+            <p>Not to mention the taking the Fort of <hi>Galway,</hi> the timely preventing <hi>Baldarick O Donnel</hi>'s intented Succour, with the forcing that City to a ſpeedy Surrender, in order to the Army's making the mone timely March to the Siege of that almoſt im<g ref="char:EOLhyphen"/>pregnable Fortreſs of <hi>Lymerick;</hi> the forcing of wich ſaid Place to a Surrender, not only crowns the Work of this Glorious, Succeſsful, and ever Happy Campaign, but puts a Final End to the War in that Kingdom, by bringing thoſe People enti<g ref="char:EOLhyphen"/>rely under the Obedience of Their Majeſties Authority.</p>
+            <p>The <hi>Baron</hi>'s Indefatigable Diligence, with that of his Ex<g ref="char:EOLhyphen"/>traordinary Conduct, and Military Stratagems, in the ſeveral Series of Actions during the Siege of <hi>Lymerick,</hi> (too many he<g ref="char:EOLhyphen"/>re to particularize,) cannot but be admired by all <hi>Europe.</hi> His vaſt Skill in Military Affairs made the Soldiers, in all their At<g ref="char:EOLhyphen"/>tempts at the Siege bold and ſecure under him: No Attempt ſeem'd difficult, if but done by his Command. He is the Love, as well as the Terrour of the <hi>Irish;</hi> for no General was ever ſo averſe from Violence, even againſt thoſe he had vanquished. The War has not been managed by him, as by ſome Generals on the other ſide of the Sea; where Burgning of Towns, Laying a whole Country in Ashes, and ſparing neither Agenor Sex, is looked upon as a great Commendation to Poſterity.</p>
+            <p>All that as been ſaid here, is but one part of this Great Man's Character: He is as admirable in his Private, as in his Publick Capacities; and there is as ample a Catalogue of his Vertues, as of his Exploits.</p>
+            <p>
+               <pb n="16" facs="tcp:180149:9"/>To be Great and Good is extraordinary and difficult: To live in the Noiſe and Violence of Wars, and yet preſerve a Reli<g ref="char:EOLhyphen"/>gions temper, and a Conſcience tender of the leaſt Evil, is infi<g ref="char:EOLhyphen"/>nite. To be as intent to overcome our ſelves, as our Enemies, is the higheſt Improvement of Vertve. All this is in our Gene<g ref="char:EOLhyphen"/>ral, to an eminent Degree: He is of an Affable, Candid and Obliging Nature: It is harder for him to deny a Favour, than to another to be denied: He never ſuffers himſelf to be ask'd, when he ſees real Merit; and refuſes with an extream Civility, what he cannot grant. In short, He will live to Poſterity, by the large Share he has ſecured to himſelf of the Hiſtory of his Age and this Name cannot be forgotten, ſo long as Men are capable of Admiring Great and Vertuons <hi>Actions.</hi>
+            </p>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:180149:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
